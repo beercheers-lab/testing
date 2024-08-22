@@ -1,3 +1,4 @@
+$rozokvksgz = 123
 $abcd = @"
 using System;
 using System.Runtime.InteropServices;
